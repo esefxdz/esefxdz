@@ -69,17 +69,17 @@ title {
     font-size: large;
     font-weight: 100;
     margin-bottom: auto;
-    color:#a50000;
+    color:#000000;
 }
 h1 {
     font-size: 3rem;
-    color: #a50000;
+    color: #000000;
     font-weight: bold;
     margin-top: 150px;
 }
 p {
-    font-size: 1.2rem;
-    color:blueviolet;
+    font-size: 2rem;
+    color:rgb(0, 0, 0);
     max-width: 800px;
     margin: 0 auto 40px auto;
     line-height: 1.5;
