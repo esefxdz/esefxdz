@@ -4,9 +4,24 @@ document.addEventListener('DOMContentLoaded', () => {
 
   for (let i = 1; i <= totalImages; i++) {
     const img = document.createElement('img');
-    img.src = `gallery/${i}.jpg`;  // assuming .jpg extension, change if needed
     img.alt = `Image ${i}`;
-    img.onerror = () => { img.style.display = 'none'; }; // hide broken images
+
+    // Try jpg first
+    img.src = `gallery/${i}.jpg`;
+
+    // fallback to png
+    img.onerror = () => {
+      img.src = `gallery/${i}.png`;
+
+      // fallback to gif
+      img.onerror = () => {
+        img.src = `gallery/${i}.gif`;
+
+        // hide if all fail
+        img.onerror = () => { img.style.display = 'none'; };
+      };
+    };
+
     galleryContainer.appendChild(img);
   }
 });
