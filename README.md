@@ -1,7 +1,6 @@
 <div align="center">
-<!-- Animated typing banner -->
 <a href="https://esefos.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=800&pause=50&color=A78BFA&center=true&vCenter=true&width=560&height=70&lines=Hello;Hello!;Hello!!;Hello!!!;Hello!!!!;Hello!!!!!;Hello!!!!!!;Hello!!!!!!!;Hello!!!!!!!!;Hello!!!!!!!!!;Hello!!!!!!!!!!;Hello!!!!!!!!!!!;Hello!!!!!!!!!!!!;Hello!!!!!!!!!!!!!;Hello!!!!!!!!!!!!!!;Hello!!!!!!!!!!!!!!!;Hello!!!!!!!!!!!!!!!!;Hello!!!!!!!!!!!!!!!!!;Hello!!!!!!!!!!!!!!!!!!;Hello!!!!!!!!!!!!!!!!!!!;Hello!!!!!!!!!!!!!!!!!!!!;Hello!!!!!!!!!!!!!!!!!!!!!;Hello!!!!!!!!!!!!!!!!!!!!!!;Hello!!!!!!!!!!!!!!!!!!!!!!!;Hello!!!!!!!!!!!!!!!!!!!!!!!!" alt="Hello!!!..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=800&pause=50&color=A78BFA&center=true&vCenter=true&width=560&height=70&lines=Hello!!!!!!!!!!!!!!!!!!!!!!!!!" alt="Hello!!!..." />
 </a>
 </div>
 
